@@ -12,17 +12,17 @@
 
 ### 全局配置：
 
-* [QuantumultX.conf]
+* [QuantumultX.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/main/QuantumultX.conf)
 
 
 ### 远程配置：
 * [CSDN图文教程](https://youtu.be/tr5aji82Vks)
 
-* [Js.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Js.conf) 脚本远程订阅
+* [Js.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/main/Js.conf) 脚本远程订阅
 
-* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
+* [Get_Cookie_Remote.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/main/Get_Cookie_Remote.conf) 获取Cookie远程订阅,仅在Cookie获取或失效时启用,不需要时右滑动禁用.
 
-* [Task_Remote.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Task_Remote.conf) 定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
+* [Task_Remote.conf]定时任务远程配置,目前无法订阅,请手动根据个人需求复制内容及修改时间
 
 
 ## 免责声明：
