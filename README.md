@@ -8,32 +8,15 @@
 
 * 只测试自用脚本，其他大部分脚本未测试可用性.
 
-* 更新通知[频道](https://t.me/shufflewzcNews)
+* 更新通知[频道](https://t.me/shufflewzc)
 
 ### 全局配置：
 
-* [QuantumultX.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/QuantumultX.conf)
+* [QuantumultX.conf]
 
-
-### 本地配置：
-
-* 建立本地文件夹
-目录 iCloud Drive/QuantumultX/Scripts/shufflewzc 或者 我的iPhone/QuantumultX/Scripts/shufflewzc
-
-* WoringCopy挂载我的[仓库](https://github.com/shufflewzc/QuantumultX.git)
-
-* 挂载[视频教程](https://m.youtube.com/watch?t=3s&v=inCQFnDmRLo)
-
-* [Js_local_WorkingCopy.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Js_local_WorkingCopy.conf) 脚本订阅.
-
-* [Get_Cookie_New.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Get_Cookie_New.conf) 获取Cookie订阅
-
-* 仅在Cookie获取或失效时启用,不需要时右滑动禁用.
-
-* [Task_Local.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Task_Local.conf) 定时任务配置,目前无法订阅,请手动根据个人需求复制内容及修改时间.
 
 ### 远程配置：
-* [视频教程](https://youtu.be/tr5aji82Vks)
+* [CSDN图文教程](https://youtu.be/tr5aji82Vks)
 
 * [Js.conf](https://raw.githubusercontent.com/shufflewzc/QuantumultX/master/Js.conf) 脚本远程订阅
 
